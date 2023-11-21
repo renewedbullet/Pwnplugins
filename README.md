@@ -1,2 +1,0 @@
-# Pwnplguins
-Pwnagotchi Top Plugins
