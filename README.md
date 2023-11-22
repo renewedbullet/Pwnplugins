@@ -1,6 +1,9 @@
 # Pwnplugins
 Pwnagotchi Top Plugins
 
+Please visit the Wiki for more information
+
+https://github.com/renewedbullet/Pwnplugins/wiki
 
 
 Thanks to all of the developers of these plugins!
